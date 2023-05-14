@@ -1,10 +1,10 @@
 # Tabs
-items_tab: 'Items'
-events_tab: 'Events'
-traits_tab: 'Traits'
-animals_tab: 'Animals'
-weapons_tab: 'Weapons'
-pawn_kinds_tab: 'Pawn Kinds'
+items_tab: 'предметы'
+events_tab: 'ивенты'
+traits_tab: 'перки(traits)'
+animals_tab: 'корабли'
+weapons_tab: 'оружие'
+pawn_kinds_tab: 'пешки(pawn)'
 
 # Table headers
 mod_name_header: Mod Name
