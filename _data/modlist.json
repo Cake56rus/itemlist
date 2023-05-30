@@ -36,6 +36,12 @@
     "version": null
   },
   {
+    "author": "Daemon976",
+    "name": "Nals Facial Animation for HAR",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "RutraNickers",
     "name": "Facial Animation Androids Patch",
     "steamId": null,
@@ -158,12 +164,6 @@
   {
     "author": "Mersid",
     "name": "Power Tab",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "CrazyKristi",
-    "name": "Giggles von Honkerton V2 Standalone",
     "steamId": null,
     "version": null
   },
@@ -326,6 +326,18 @@
   {
     "author": "FrozenSnowFox",
     "name": "[FSF] Meditation Freedom",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "いのしし_3",
+    "name": "Kurin, The Three Tailed Fox [Deluxe Edition]",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Eiten",
+    "name": "[Eiten] FaceTexturePack",
     "steamId": null,
     "version": null
   }

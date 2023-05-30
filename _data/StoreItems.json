@@ -1664,13 +1664,13 @@
 	},
 	{
 		"abr": "страус",
-		"price": 417,
+		"price": -10,
 		"category": "Животные",
 		"defname": "Ostrich"
 	},
 	{
 		"abr": "эму",
-		"price": 333,
+		"price": -10,
 		"category": "Животные",
 		"defname": "Emu"
 	},
@@ -1694,7 +1694,7 @@
 	},
 	{
 		"abr": "рысь",
-		"price": 417,
+		"price": -10,
 		"category": "Животные",
 		"defname": "Lynx"
 	},
@@ -1724,7 +1724,7 @@
 	},
 	{
 		"abr": "хаски",
-		"price": 417,
+		"price": -10,
 		"category": "Животные",
 		"defname": "Husky"
 	},
@@ -1742,7 +1742,7 @@
 	},
 	{
 		"abr": "утка",
-		"price": 100,
+		"price": -10,
 		"category": "Животные",
 		"defname": "Duck"
 	},
@@ -1808,7 +1808,7 @@
 	},
 	{
 		"abr": "северныйолень",
-		"price": 500,
+		"price": -10,
 		"category": "Животные",
 		"defname": "Caribou"
 	},
@@ -1826,7 +1826,7 @@
 	},
 	{
 		"abr": "слон",
-		"price": 1000,
+		"price": -10,
 		"category": "Животные",
 		"defname": "Elephant"
 	},
@@ -1868,7 +1868,7 @@
 	},
 	{
 		"abr": "трумбо",
-		"price": 6667,
+		"price": -10,
 		"category": "Животные",
 		"defname": "Thrumbo"
 	},
@@ -1880,7 +1880,7 @@
 	},
 	{
 		"abr": "черепаха",
-		"price": 333,
+		"price": -10,
 		"category": "Животные",
 		"defname": "Tortoise"
 	},
@@ -1892,7 +1892,7 @@
 	},
 	{
 		"abr": "свинья",
-		"price": 333,
+		"price": -10,
 		"category": "Животные",
 		"defname": "Pig"
 	},
@@ -1922,7 +1922,7 @@
 	},
 	{
 		"abr": "шиншилла",
-		"price": 250,
+		"price": -10,
 		"category": "Животные",
 		"defname": "Chinchilla"
 	},
@@ -2000,7 +2000,7 @@
 	},
 	{
 		"abr": "фенек",
-		"price": 333,
+		"price": -10,
 		"category": "Животные",
 		"defname": "Fox_Fennec"
 	},
@@ -3524,7 +3524,7 @@
 	},
 	{
 		"abr": "архочерепаха",
-		"price": 1667,
+		"price": -10,
 		"category": "Животные",
 		"defname": "Archotortoise"
 	},
@@ -3542,7 +3542,7 @@
 	},
 	{
 		"abr": "архотушканчик",
-		"price": 1667,
+		"price": -10,
 		"category": "Животные",
 		"defname": "Archojerboa"
 	},
@@ -4553,30 +4553,6 @@
 		"price": 296,
 		"category": "Разное",
 		"defname": "Facility_IVDrip"
-	},
-	{
-		"abr": "clownsuit",
-		"price": 917,
-		"category": "Одежда",
-		"defname": "Apparel_NT_HONK"
-	},
-	{
-		"abr": "clownwig",
-		"price": 417,
-		"category": "Одежда",
-		"defname": "Apparel_NT_HONKMask"
-	},
-	{
-		"abr": "clownsbanana",
-		"price": 1333,
-		"category": "Оружие дальнего боя",
-		"defname": "Gun_HonkBanana"
-	},
-	{
-		"abr": "bikehorn",
-		"price": 1667,
-		"category": "Оружие дальнего боя",
-		"defname": "Gun_HonkHorn"
 	},
 	{
 		"abr": "infusionamplifier",
@@ -7244,7 +7220,7 @@
 	},
 	{
 		"abr": "пси-тренер(теневойфокус)",
-		"price": 2833,
+		"price": -10,
 		"category": "Пси-тренеры",
 		"defname": "Psytrainer_VPE_ShadowFocus"
 	},
@@ -7382,13 +7358,13 @@
 	},
 	{
 		"abr": "скелет",
-		"price": 250,
+		"price": -10,
 		"category": "Животные",
 		"defname": "VPE_SummonedSkeleton"
 	},
 	{
 		"abr": "стальнаяконструкция",
-		"price": 250,
+		"price": -10,
 		"category": "Животные",
 		"defname": "VPE_SteelConstruct"
 	},
@@ -7565,7 +7541,847 @@
 		"price": 367,
 		"category": "Протезы",
 		"defname": "FSFSimpleProstheticStomach"
+	},
+	{
+		"abr": "fakekurinear",
+		"price": 417,
+		"category": "Протезы",
+		"defname": "Kurin_Fake_Ear"
+	},
+	{
+		"abr": "fakekurintail",
+		"price": 442,
+		"category": "Протезы",
+		"defname": "Kurin_Fake_Tail"
+	},
+	{
+		"abr": "kurin",
+		"price": -10,
+		"category": "Animal",
+		"defname": "Kurin_One_Tailed"
+	},
+	{
+		"abr": "kurinpowerarmorthermalunderwear",
+		"price": 683,
+		"category": "Военная одежда куринов",
+		"defname": "Kurin_Power_Armor_Thermal_Uderwear"
+	},
+	{
+		"abr": "анмэйкркуринов",
+		"price": 4333,
+		"category": "Оружие дальнего боя",
+		"defname": "Kurin_Gun_Unmaker"
+	},
+	{
+		"abr": "белоебельёкуринов",
+		"price": 101,
+		"category": "Бельё куринов",
+		"defname": "Kurin_Underwear_White"
+	},
+	{
+		"abr": "белыечулкикуринов",
+		"price": 101,
+		"category": "Чулки куринов",
+		"defname": "Kurin_Stockings_White"
+	},
+	{
+		"abr": "бикини-доспехикуринов",
+		"price": 1425,
+		"category": "Костюмы куринов",
+		"defname": "Kurin_OnSkin_Bikini_Armor"
+	},
+	{
+		"abr": "бионическийхвосткимири",
+		"price": 2108,
+		"category": "Бионические",
+		"defname": "Kimiri_Bionic_Tail"
+	},
+	{
+		"abr": "бионическийхвосткурина",
+		"price": 1925,
+		"category": "Бионические",
+		"defname": "Kurin_Bionic_Tail"
+	},
+	{
+		"abr": "бионическоеухокимири",
+		"price": 958,
+		"category": "Бионические",
+		"defname": "Kimiri_Bionic_Ear"
+	},
+	{
+		"abr": "бионическоеухокурина",
+		"price": 1742,
+		"category": "Бионические",
+		"defname": "Kurin_Bionic_Ear"
+	},
+	{
+		"abr": "боевыеочкикуринов",
+		"price": 190,
+		"category": "Головные уборы куринов",
+		"defname": "Kurin_Overhead_Goggles"
+	},
+	{
+		"abr": "бронированноеготическоеплатьекуринов",
+		"price": 608,
+		"category": "Костюмы куринов",
+		"defname": "Kurin_OnSkin_Armored_Gothic_Dress"
+	},
+	{
+		"abr": "вингеркуринов",
+		"price": 908,
+		"category": "Оружие дальнего боя",
+		"defname": "Kurin_Gun_Sniper_Rifle"
+	},
+	{
+		"abr": "военнаяуниформакуринов",
+		"price": 1275,
+		"category": "Костюмы куринов",
+		"defname": "Kurin_OnSkin_Military_Uniform"
+	},
+	{
+		"abr": "военныйрюкзаккуринов",
+		"price": 442,
+		"category": "Рюкзаки куринов",
+		"defname": "Kurin_Backpack_Military"
+	},
+	{
+		"abr": "военныйшлемкуринов(a)",
+		"price": 608,
+		"category": "Головные уборы куринов",
+		"defname": "Kurin_Overhead_Military_Helmet_A"
+	},
+	{
+		"abr": "военныйшлемкуринов(b)",
+		"price": 608,
+		"category": "Головные уборы куринов",
+		"defname": "Kurin_Overhead_Military_Helmet_B"
+	},
+	{
+		"abr": "готическаязаколкакуринов",
+		"price": 350,
+		"category": "Головные уборы куринов",
+		"defname": "Kurin_Overhead_Gothic_Hair_Pin"
+	},
+	{
+		"abr": "готическоеплатьекуринов",
+		"price": 400,
+		"category": "Костюмы куринов",
+		"defname": "Kurin_OnSkin_Gothic_Dress"
+	},
+	{
+		"abr": "длиннаяюбкакуринов",
+		"price": 191,
+		"category": "Одежда куринов для ног",
+		"defname": "Kurin_Legs_Long_Skirt"
+	},
+	{
+		"abr": "доспехи-купальниккимири",
+		"price": 650,
+		"category": "Костюмы куринов",
+		"defname": "Kimiri_OnSkin_Swimsuit_Armor"
+	},
+	{
+		"abr": "дружбакуринов",
+		"price": 742,
+		"category": "Оружие дальнего боя",
+		"defname": "Kurin_Gun_Auto_Shotgun"
+	},
+	{
+		"abr": "загрузочнаяворонкакуринов",
+		"price": 49,
+		"category": "Производство",
+		"defname": "Kurin_Fabricator_Hopper"
+	},
+	{
+		"abr": "зимняяшапкакуринов",
+		"price": 107,
+		"category": "Головные уборы куринов",
+		"defname": "Kurin_Overhead_Winter_Hat"
+	},
+	{
+		"abr": "изысканнаятрадиционнаяодеждакуринов",
+		"price": 400,
+		"category": "Костюмы куринов",
+		"defname": "Kurin_OnSkin_Traditional_Fancy_Dress"
+	},
+	{
+		"abr": "казуальныйнарядкуринов",
+		"price": 315,
+		"category": "Костюмы куринов",
+		"defname": "Kurin_OnSkin_Casual_Wear"
+	},
+	{
+		"abr": "кардиганкуринов",
+		"price": 298,
+		"category": "Верхняя одежда куринов",
+		"defname": "Kurin_Shell_Cardigan"
+	},
+	{
+		"abr": "кепкакуринов",
+		"price": 107,
+		"category": "Головные уборы куринов",
+		"defname": "Kurin_Overhead_Cap"
+	},
+	{
+		"abr": "кимири",
+		"price": -10,
+		"category": "Animal",
+		"defname": "Kimiri"
+	},
+	{
+		"abr": "колготкикуринов",
+		"price": 101,
+		"category": "Чулки куринов",
+		"defname": "Kurin_Stockings_Pantyhose"
+	},
+	{
+		"abr": "комбинезонкимири",
+		"price": 269,
+		"category": "Костюмы куринов",
+		"defname": "Kimiri_OnSkin_Short_Jumpsuit"
+	},
+	{
+		"abr": "конвертермясакуринов",
+		"price": 2183,
+		"category": "Производство",
+		"defname": "Kurin_Fabricator_MeatConverter"
+	},
+	{
+		"abr": "коричневыечулкикуринов",
+		"price": 101,
+		"category": "Чулки куринов",
+		"defname": "Kurin_Stockings_Brown"
+	},
+	{
+		"abr": "костюмкосмическогоэкипажакуринов",
+		"price": 1475,
+		"category": "Костюмы куринов",
+		"defname": "Kurin_OnSkin_Spaceship_Crew_Suit"
+	},
+	{
+		"abr": "красноебельёкуринов",
+		"price": 101,
+		"category": "Бельё куринов",
+		"defname": "Kurin_Underwear_Red"
+	},
+	{
+		"abr": "курин",
+		"price": -10,
+		"category": "Animal",
+		"defname": "Kurin"
+	},
+	{
+		"abr": "лёгкиешортыкуринов",
+		"price": 169,
+		"category": "Костюмы куринов",
+		"defname": "Kurin_OnSkin_Hot_Pants"
+	},
+	{
+		"abr": "лёгкийбронежилеткуринов",
+		"price": 358,
+		"category": "Военная одежда куринов",
+		"defname": "Kurin_Middle_Body_Armor"
+	},
+	{
+		"abr": "лёгкоеплатьекуринов",
+		"price": 236,
+		"category": "Костюмы куринов",
+		"defname": "Kurin_OnSkin_One_Piece_Dress"
+	},
+	{
+		"abr": "летняяшляпакуринов",
+		"price": 107,
+		"category": "Головные уборы куринов",
+		"defname": "Kurin_Overhead_Summer_Hat"
+	},
+	{
+		"abr": "лилин",
+		"price": 2000,
+		"category": "Животные",
+		"defname": "Lilin"
+	},
+	{
+		"abr": "ловкачкуринов",
+		"price": 667,
+		"category": "Оружие дальнего боя",
+		"defname": "Kurin_Gun_Heavy_SMG"
+	},
+	{
+		"abr": "ловушкаслассо",
+		"price": 51,
+		"category": "Защита",
+		"defname": "Kurin_Noose_Trap"
+	},
+	{
+		"abr": "мечкимири",
+		"price": 633,
+		"category": "Оружие ближнего боя",
+		"defname": "Kimiri_MeleeWeapon_Katana"
+	},
+	{
+		"abr": "мечкуринов",
+		"price": 633,
+		"category": "Оружие ближнего боя",
+		"defname": "Kurin_MeleeWeapon_Katana"
+	},
+	{
+		"abr": "милаязаколкакуринов",
+		"price": 358,
+		"category": "Головные уборы куринов",
+		"defname": "Kurin_Overhead_Cute_Hair_Pin"
+	},
+	{
+		"abr": "милоеплатьекуринов",
+		"price": 383,
+		"category": "Костюмы куринов",
+		"defname": "Kurin_OnSkin_Cute_Dress"
+	},
+	{
+		"abr": "одинарныйэффекткуринов",
+		"price": 2892,
+		"category": "Оружие дальнего боя",
+		"defname": "Kurin_Gun_Sniper_Charge_Rifle"
+	},
+	{
+		"abr": "опустошителькуринов",
+		"price": 1083,
+		"category": "Оружие дальнего боя",
+		"defname": "Kurin_Gun_Grenade_Launcher"
+	},
+	{
+		"abr": "опустошителькуринов(дымовой)",
+		"price": 1083,
+		"category": "Оружие дальнего боя",
+		"defname": "Kurin_Gun_Grenade_Launcher_SM"
+	},
+	{
+		"abr": "опустошителькуринов(зажигательный)",
+		"price": 1083,
+		"category": "Оружие дальнего боя",
+		"defname": "Kurin_Gun_Grenade_Launcher_IM"
+	},
+	{
+		"abr": "опустошителькуринов(огнетушительный)",
+		"price": 1083,
+		"category": "Оружие дальнего боя",
+		"defname": "Kurin_Gun_Grenade_Launcher_FEM"
+	},
+	{
+		"abr": "открытыйсвитеркуринов",
+		"price": 203,
+		"category": "Костюмы куринов",
+		"defname": "Kurin_OnSkin_Open_Back_Knit"
+	},
+	{
+		"abr": "открытыйсвитеркуринов",
+		"price": 203,
+		"category": "Костюмы куринов",
+		"defname": "Kurin_OnSkin_Open_Front_Knit"
+	},
+	{
+		"abr": "охотничьеружьёкуринов",
+		"price": 508,
+		"category": "Оружие дальнего боя",
+		"defname": "Kurin_Gun_Hunting_Shotgun"
+	},
+	{
+		"abr": "паддингкуринов",
+		"price": 350,
+		"category": "Верхняя одежда куринов",
+		"defname": "Kurin_Shell_Winter_Padding"
+	},
+	{
+		"abr": "пижамакуринов(a)",
+		"price": 236,
+		"category": "Костюмы куринов",
+		"defname": "Kurin_OnSkin_Pajama_A"
+	},
+	{
+		"abr": "пижамакуринов(b)",
+		"price": 236,
+		"category": "Костюмы куринов",
+		"defname": "Kurin_OnSkin_Pajama_B"
+	},
+	{
+		"abr": "пижамакуринов(c)",
+		"price": 236,
+		"category": "Костюмы куринов",
+		"defname": "Kurin_OnSkin_Pajama_C"
+	},
+	{
+		"abr": "платьемонахиникуринов",
+		"price": 400,
+		"category": "Костюмы куринов",
+		"defname": "Kurin_OnSkin_Nun_Dress"
+	},
+	{
+		"abr": "плащкуринов",
+		"price": 315,
+		"category": "Верхняя одежда куринов",
+		"defname": "Kurin_Shell_Duster"
+	},
+	{
+		"abr": "повседневнаязаколкакуринов",
+		"price": 350,
+		"category": "Головные уборы куринов",
+		"defname": "Kurin_Overhead_Casual_Hair_Pin"
+	},
+	{
+		"abr": "подавителькуринов",
+		"price": 2708,
+		"category": "Оружие дальнего боя",
+		"defname": "Kurin_Gun_Charge_LMG"
+	},
+	{
+		"abr": "полосатоебельёкуринов",
+		"price": 101,
+		"category": "Бельё куринов",
+		"defname": "Kurin_Underwear_Striped"
+	},
+	{
+		"abr": "полосатыечулкикуринов",
+		"price": 101,
+		"category": "Чулки куринов",
+		"defname": "Kurin_Stockings_Striped"
+	},
+	{
+		"abr": "приятелькуринов",
+		"price": 842,
+		"category": "Оружие дальнего боя",
+		"defname": "Kurin_Gun_Assault_Rifle"
+	},
+	{
+		"abr": "продвинутыйфабрикаторкуринов",
+		"price": 4442,
+		"category": "Производство",
+		"defname": "Kurin_Fabricator_Advanced"
+	},
+	{
+		"abr": "проклятиекуринов",
+		"price": 1267,
+		"category": "Оружие дальнего боя",
+		"defname": "Kurin_Special_Rocket_Launcher"
+	},
+	{
+		"abr": "простаятрадиционнаяодеждакуринов",
+		"price": 400,
+		"category": "Костюмы куринов",
+		"defname": "Kurin_OnSkin_Traditional_Simple_Dress"
+	},
+	{
+		"abr": "простойфабрикаторкуринов",
+		"price": 1600,
+		"category": "Производство",
+		"defname": "Kurin_Fabricator_Simple"
+	},
+	{
+		"abr": "рабочийкомбинезонкуринов",
+		"price": 525,
+		"category": "Костюмы куринов",
+		"defname": "Kurin_OnSkin_Work_Jumpsuit"
+	},
+	{
+		"abr": "рабочийрюкзаккуринов",
+		"price": 500,
+		"category": "Рюкзаки куринов",
+		"defname": "Kurin_Backpack_Worker"
+	},
+	{
+		"abr": "разрушителькуринов",
+		"price": 2458,
+		"category": "Оружие дальнего боя",
+		"defname": "Kurin_Gun_Charge_Rifle"
+	},
+	{
+		"abr": "рациякуринов(дождь)",
+		"price": 583,
+		"category": "Рации куринов",
+		"defname": "Kurin_WalkieTalkie_Rain"
+	},
+	{
+		"abr": "рациякуринов(снег)",
+		"price": 583,
+		"category": "Рации куринов",
+		"defname": "Kurin_WalkieTalkie_Snow"
+	},
+	{
+		"abr": "резнякуринов",
+		"price": 1858,
+		"category": "Оружие дальнего боя",
+		"defname": "Kurin_Special_Heavy_Rocket_Launcher"
+	},
+	{
+		"abr": "роскошноетрадиционнаяодеждакуринов",
+		"price": 400,
+		"category": "Костюмы куринов",
+		"defname": "Kurin_OnSkin_Traditional_Luxury_Dress"
+	},
+	{
+		"abr": "рубашкакуринов",
+		"price": 191,
+		"category": "Костюмы куринов",
+		"defname": "Kurin_OnSkin_Shirt"
+	},
+	{
+		"abr": "свитерсоткрытымиплечамикуринов",
+		"price": 236,
+		"category": "Костюмы куринов",
+		"defname": "Kurin_OnSkin_Open_Shoulder_Knit"
+	},
+	{
+		"abr": "силоваябронякуринов",
+		"price": 5108,
+		"category": "Военная одежда куринов",
+		"defname": "Kurin_Power_Armor"
+	},
+	{
+		"abr": "соблазнительноебелоеплатьекуринов",
+		"price": 525,
+		"category": "Костюмы куринов",
+		"defname": "Kurin_OnSkin_Seductive_White_Dress"
+	},
+	{
+		"abr": "соблазнительноечёрноеплатьекуринов",
+		"price": 525,
+		"category": "Костюмы куринов",
+		"defname": "Kurin_OnSkin_Seductive_Black_Dress"
+	},
+	{
+		"abr": "солнечныеочкикуринов",
+		"price": 68,
+		"category": "Головные уборы куринов",
+		"defname": "Kurin_Overhead_Sunglasses"
+	},
+	{
+		"abr": "спичкакуринов",
+		"price": 1117,
+		"category": "Оружие дальнего боя",
+		"defname": "Kurin_Gun_Flamethrower"
+	},
+	{
+		"abr": "стражкуринов",
+		"price": 975,
+		"category": "Оружие дальнего боя",
+		"defname": "Kurin_Gun_Heavy_Assault_Rifle"
+	},
+	{
+		"abr": "суригумкуринов",
+		"price": 143,
+		"category": "Оружие ближнего боя",
+		"defname": "Kurin_Gun_Surigum"
+	},
+	{
+		"abr": "тайфункуринов",
+		"price": 1867,
+		"category": "Оружие дальнего боя",
+		"defname": "Kurin_Special_Rocket_Launcher_Typhoon"
+	},
+	{
+		"abr": "толстовкакуринов",
+		"price": 269,
+		"category": "Костюмы куринов",
+		"defname": "Kurin_OnSkin_Hoodie"
+	},
+	{
+		"abr": "тонкоебельёкуринов",
+		"price": 101,
+		"category": "Бельё куринов",
+		"defname": "Kurin_Underwear_Slim"
+	},
+	{
+		"abr": "торткуринов",
+		"price": 50,
+		"category": "Блюда",
+		"defname": "Kurin_Cake"
+	},
+	{
+		"abr": "торчоккуринов",
+		"price": 309,
+		"category": "Оружие дальнего боя",
+		"defname": "Kurin_Gun_Pistol"
+	},
+	{
+		"abr": "традиционнаязаколкакуринов",
+		"price": 358,
+		"category": "Головные уборы куринов",
+		"defname": "Kurin_Overhead_Traditional_Hair_Pin"
+	},
+	{
+		"abr": "традиционноепальтокуринов",
+		"price": 550,
+		"category": "Верхняя одежда куринов",
+		"defname": "Kurin_Shell_Traditional_Coat"
+	},
+	{
+		"abr": "тяжёлаясиловаябронякуринов",
+		"price": 6558,
+		"category": "Военная одежда куринов",
+		"defname": "Kurin_Heavy_Power_Armor"
+	},
+	{
+		"abr": "тяжёлыйбронежилеткуринов",
+		"price": 483,
+		"category": "Военная одежда куринов",
+		"defname": "Kurin_Middle_Heavy_Body_Armor"
+	},
+	{
+		"abr": "ультра-компоненткуринов",
+		"price": 1667,
+		"category": "Изделия",
+		"defname": "Kurin_Ultra_Component"
+	},
+	{
+		"abr": "фабрикаторматериаловкуринов",
+		"price": 2725,
+		"category": "Производство",
+		"defname": "Kurin_Fabricator_Material"
+	},
+	{
+		"abr": "футболкакуринов",
+		"price": 191,
+		"category": "Костюмы куринов",
+		"defname": "Kurin_OnSkin_T_Shirt"
+	},
+	{
+		"abr": "хищниккуринов",
+		"price": 2033,
+		"category": "Оружие дальнего боя",
+		"defname": "Kurin_Gun_Gauss_Rifle"
+	},
+	{
+		"abr": "церемониальныймеч",
+		"price": 767,
+		"category": "Оружие ближнего боя",
+		"defname": "Kurin_MeleeWeapon_Ceremonial_Sword"
+	},
+	{
+		"abr": "череполомкуринов(бб)",
+		"price": 1283,
+		"category": "Оружие дальнего боя",
+		"defname": "Kurin_Gun_Heavy_Sniper_Rifle"
+	},
+	{
+		"abr": "череполомкуринов(офб)",
+		"price": 1417,
+		"category": "Оружие дальнего боя",
+		"defname": "Kurin_Gun_Heavy_Sniper_Rifle_HE"
+	},
+	{
+		"abr": "чёрноебельёкуринов",
+		"price": 101,
+		"category": "Бельё куринов",
+		"defname": "Kurin_Underwear_Black"
+	},
+	{
+		"abr": "чулкинаподтяжкахкуринов",
+		"price": 101,
+		"category": "Чулки куринов",
+		"defname": "Kurin_Stockings_Garterbelt"
+	},
+	{
+		"abr": "шарфкуринов",
+		"price": 107,
+		"category": "Одежда куринов среднего слоя",
+		"defname": "Kurin_Middle_Scarf"
+	},
+	{
+		"abr": "шерстьлилина",
+		"price": 4,
+		"category": "Шерсть",
+		"defname": "Lilin_Wool"
+	},
+	{
+		"abr": "шлембикини-доспеховкуринов",
+		"price": 558,
+		"category": "Головные уборы куринов",
+		"defname": "Kurin_Overhead_Bikini_Armor_Headgear"
+	},
+	{
+		"abr": "шлемсиловойброникуринов",
+		"price": 1767,
+		"category": "Военная одежда куринов",
+		"defname": "Kurin_Power_Armor_Helmet"
+	},
+	{
+		"abr": "шлемтяжёлойсиловойброникуринов",
+		"price": 2517,
+		"category": "Военная одежда куринов",
+		"defname": "Kurin_Heavy_Power_Armor_Helmet"
+	},
+	{
+		"abr": "шортыкуринов",
+		"price": 151,
+		"category": "Одежда куринов для ног",
+		"defname": "Kurin_Legs_Shorts"
+	},
+	{
+		"abr": "штаныкуринов",
+		"price": 191,
+		"category": "Одежда куринов для ног",
+		"defname": "Kurin_Legs_Pants"
+	},
+	{
+		"abr": "штатскийрюкзаккуринов",
+		"price": 203,
+		"category": "Рюкзаки куринов",
+		"defname": "Kurin_Backpack_Civil"
+	},
+	{
+		"abr": "электрическийшвейныйверстаккуринов",
+		"price": 533,
+		"category": "Производство",
+		"defname": "Kurin_Electric_Tailoring_Bench"
+	},
+	{
+		"abr": "эми-опустошителькуринов",
+		"price": 1083,
+		"category": "Оружие дальнего боя",
+		"defname": "Kurin_Gun_Grenade_Launcher_EMPM"
+	},
+	{
+		"abr": "юбкакуринов",
+		"price": 151,
+		"category": "Одежда куринов для ног",
+		"defname": "Kurin_Legs_Skirt"
+	},
+	{
+		"abr": "100thammer",
+		"price": 1408,
+		"category": "Оружие ближнего боя",
+		"defname": "Kijin_100tHammer"
+	},
+	{
+		"abr": "bionickijinhorn",
+		"price": 1808,
+		"category": "Бионические",
+		"defname": "Kijin_BionicHorn"
+	},
+	{
+		"abr": "cornedmeat",
+		"price": 2,
+		"category": "Мясо",
+		"defname": "SaltedMeatKijin"
+	},
+	{
+		"abr": "darkmarinearmor",
+		"price": 3392,
+		"category": "Одежда",
+		"defname": "Apparel_PowerArmorDK"
+	},
+	{
+		"abr": "darkmarinehelmet",
+		"price": 1058,
+		"category": "Головные уборы",
+		"defname": "Apparel_PowerArmorHelmetDK"
+	},
+	{
+		"abr": "firewardcharm",
+		"price": 157,
+		"category": "Одежда",
+		"defname": "Kijin_FirewardCharm"
+	},
+	{
+		"abr": "goldbar",
+		"price": 1667,
+		"category": "Материалы",
+		"defname": "GoldBar"
+	},
+	{
+		"abr": "guardingvest",
+		"price": 400,
+		"category": "Одежда",
+		"defname": "Kijin_FlakVest"
+	},
+	{
+		"abr": "infernoarmor",
+		"price": 8333,
+		"category": "Одежда",
+		"defname": "Kijin_EpicArmor"
+	},
+	{
+		"abr": "infernoheadgear",
+		"price": 8333,
+		"category": "Головные уборы",
+		"defname": "Kijin_EpicHelm"
+	},
+	{
+		"abr": "kijin",
+		"price": -10,
+		"category": "Animal",
+		"defname": "Alien_Kijin"
+	},
+	{
+		"abr": "kijinelectricsmithy",
+		"price": 492,
+		"category": "Производство",
+		"defname": "KijinElectricSmithy"
+	},
+	{
+		"abr": "kijinfan",
+		"price": 650,
+		"category": "Гранаты",
+		"defname": "Kijin_Fan"
+	},
+	{
+		"abr": "kijinflamebow",
+		"price": 260,
+		"category": "Оружие дальнего боя",
+		"defname": "Kijin_FlameBow"
+	},
+	{
+		"abr": "kijinmace",
+		"price": 286,
+		"category": "Оружие ближнего боя",
+		"defname": "Kijin_Mace"
+	},
+	{
+		"abr": "kijinparalysisbow",
+		"price": 600,
+		"category": "Оружие дальнего боя",
+		"defname": "Kijin_PosionBow"
+	},
+	{
+		"abr": "kijinpolearm",
+		"price": 408,
+		"category": "Оружие ближнего боя",
+		"defname": "Kijin_Polearm"
+	},
+	{
+		"abr": "kijinshrine",
+		"price": 2350,
+		"category": "Разное",
+		"defname": "NatureShrine_Kijin"
+	},
+	{
+		"abr": "kijinsmithy",
+		"price": 333,
+		"category": "Производство",
+		"defname": "KijinSmithy"
+	},
+	{
+		"abr": "kijinsmokebomb",
+		"price": 592,
+		"category": "Гранаты",
+		"defname": "Kijin_SmokeBomb"
+	},
+	{
+		"abr": "paralysisdagger",
+		"price": 525,
+		"category": "Оружие ближнего боя",
+		"defname": "Kijin_PoisonDagger"
+	},
+	{
+		"abr": "personaflameblade",
+		"price": 5000,
+		"category": "Оружие с личностью",
+		"defname": "Kijin_FlameSword"
+	},
+	{
+		"abr": "saltingbarrel",
+		"price": 84,
+		"category": "Производство",
+		"defname": "SaltingBarrel"
 	}
 	],
-	"total": 1261
+	"total": 1401
 }
