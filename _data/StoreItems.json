@@ -3536,7 +3536,7 @@
 	},
 	{
 		"abr": "архопанда",
-		"price": -10,
+		"price": 1667,
 		"category": "Животные",
 		"defname": "Archopanda"
 	},
@@ -3554,7 +3554,7 @@
 	},
 	{
 		"abr": "персональныйшаттл(режимпарения)",
-		"price": -10,
+		"price": 2500,
 		"category": "Animal",
 		"defname": "ShuttlePersonalRace"
 	},
@@ -8381,6 +8381,30 @@
 		"price": 84,
 		"category": "Производство",
 		"defname": "SaltingBarrel"
+	},
+	{
+		"abr": "silverbar",
+		"price": 167,
+		"category": "Материалы",
+		"defname": "SilverBar"
+	},
+	{
+		"abr": "smokebombbelt",
+		"price": 124,
+		"category": "Одежда",
+		"defname": "Kijin_SmokeBombBelt"
+	},
+	{
+		"abr": "spiritwood",
+		"price": 1167,
+		"category": "Артефакты",
+		"defname": "SpiritWood"
+	},
+	{
+		"abr": "мясоkijin",
+		"price": 2,
+		"category": "Мясо",
+		"defname": "Meat_Alien_Kijin"
 	}
 	],
 	"total": 1401

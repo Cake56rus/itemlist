@@ -2,12 +2,12 @@
 	"incitems" : [
 	{
 		"abr": "tornado",
-		"price": 800,
+		"price": 1200,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "tornados",
-		"price": 2600,
+		"price": 2900,
 		"karmatype": "Bad"
 	},
 	{
@@ -167,7 +167,7 @@
 	},
 	{
 		"abr": "wildman",
-		"price": 300,
+		"price": 800,
 		"karmatype": "Good"
 	},
 	{
@@ -227,7 +227,7 @@
 	},
 	{
 		"abr": "dropraid",
-		"price": 1500,
+		"price": 1800,
 		"karmatype": "Bad"
 	},
 	{
@@ -242,7 +242,7 @@
 	},
 	{
 		"abr": "mechanoidraid",
-		"price": 2500,
+		"price": 2800,
 		"karmatype": "Bad"
 	},
 	{

@@ -3790,7 +3790,7 @@
       "defName": "Human",
       "enabled": true,
       "name": "человек",
-      "price": 2917
+      "price": 2800
     },
     {
       "data": {
@@ -3846,7 +3846,7 @@
       "defName": "ChjDroid",
       "enabled": true,
       "name": "рабочий дроид",
-      "price": 1417
+      "price": 1500
     },
     {
       "data": {
@@ -3880,7 +3880,7 @@
       "defName": "ChjBattleDroid",
       "enabled": true,
       "name": "боевой дроид",
-      "price": 3167
+      "price": 2000
     },
     {
       "data": {
@@ -3901,9 +3901,9 @@
       },
       "description": "Голографическая проекция, управляемая разумом, находящимся в другом месте. Несмотря на свою человеческую внешность, аватар мог принадлежать ИИ с пугающе станными целями.\n\nЕсли проекция разрушена, ёе излучателю потребуется день, чтобы восстановить согласованность, но сам разум не пострадает.",
       "defName": "SoSHologramRace",
-      "enabled": true,
+      "enabled": false,
       "name": "голограмма",
-      "price": 2501
+      "price": 2500
     },
     {
       "data": {
@@ -3937,7 +3937,7 @@
       "defName": "Kurin",
       "enabled": true,
       "name": "курин",
-      "price": 4375
+      "price": 2800
     },
     {
       "data": {
@@ -3971,7 +3971,7 @@
       "defName": "Kurin_One_Tailed",
       "enabled": true,
       "name": "kurin",
-      "price": 4375
+      "price": 2800
     },
     {
       "data": {
@@ -4010,7 +4010,7 @@
       "defName": "Kimiri",
       "enabled": true,
       "name": "кимири",
-      "price": 4375
+      "price": 2800
     },
     {
       "data": {
@@ -4038,7 +4038,7 @@
       "defName": "Alien_Kijin",
       "enabled": true,
       "name": "Kijin",
-      "price": 2500
+      "price": 2800
     }
   ]
 }
