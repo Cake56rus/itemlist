@@ -4236,6 +4236,85 @@
       "enabled": true,
       "name": "Неко",
       "price": 2800
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Масса",
+          "+0% Воспламеняемость",
+          "+50% Психочувствительность",
+          "+0% Чувствительность к токсинам",
+          "+99900% Скорость выработки иммунитета",
+          "+0 Количество мяса",
+          "+0 Количество кожи",
+          "+4.15 Скорость передвижения",
+          "-100.0C Мин. комфортная температура",
+          "+250.0C Макс. комфортная температура",
+          "+4500₡ Рыночная стоимость",
+          "+1 Милость короны",
+          "+1.0 Шанс уворота в рукопашной",
+          "+85 Грузоподъёмность",
+          "+20% Порог нервного срыва",
+          "+90% Порог переносимости боли",
+          "+80% Скорость лечения ран",
+          "+80% Скорость исследования",
+          "+100% Скорость горных работ",
+          "+50.00% Социальное влияние",
+          "+100% Скорость работы с растениями",
+          "+80% Эффективность жатвы",
+          "+120% Скорость строительства",
+          "+7.2% Броня: Удар",
+          "+18.5% Броня: Проникновение",
+          "+200.0% Броня: Нагрев"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A basic mechanent, or a \"human-class mechanoid\". Often used by glitterworld societies or advanced urbworlds as a menial labor force - they are capable of sub-sentience and certain emotions. Their creation is illegal on some core-worlds.\n\nBeing mechanical in nature - mechanents do not need to rest, and just like mechanoids, they can be susceptible to psychic tampering.",
+      "defName": "Mechanent",
+      "enabled": true,
+      "name": "mechanent",
+      "price": 3000
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Масса",
+          "+30% Воспламеняемость",
+          "+120% Психочувствительность",
+          "+0% Чувствительность к токсинам",
+          "-50.0C Мин. комфортная температура",
+          "+150.0C Макс. комфортная температура",
+          "+2 Милость короны",
+          "+0 Количество мяса",
+          "+0 Количество кожи",
+          "+0.5 Красота",
+          "+1.2 Шанс уворота в рукопашной",
+          "+5500₡ Рыночная стоимость",
+          "+5.00 Скорость передвижения",
+          "+75 Грузоподъёмность",
+          "+29% Порог нервного срыва",
+          "+80% Порог переносимости боли",
+          "+100% Скорость лечения ран",
+          "+120% Шанс успеха операции",
+          "+120% Скорость исследования",
+          "+120.00% Способность к переговорам",
+          "+120.00% Социальное влияние",
+          "+100% Эффективность жатвы",
+          "+0.0% Броня: Удар",
+          "+0.0% Броня: Проникновение",
+          "+180.0% Броня: Нагрев"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "The avatar of an AI persona core. A relatively new creation originating from advanced glitterworld laboratories - they have all the capabilities of a baseline human.\n\nDespite being synthetic in nature - personae still need to rest, but they don't need fuel. They can experience everything from psychic tampering, to complex emotions.",
+      "defName": "Personae_",
+      "enabled": true,
+      "name": "persona",
+      "price": 4500
     }
   ]
 }

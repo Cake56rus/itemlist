@@ -3524,7 +3524,7 @@
 	},
 	{
 		"abr": "архочерепаха",
-		"price": -10,
+		"price": 1667,
 		"category": "Животные",
 		"defname": "Archotortoise"
 	},
@@ -3542,7 +3542,7 @@
 	},
 	{
 		"abr": "архотушканчик",
-		"price": -10,
+		"price": 1667,
 		"category": "Животные",
 		"defname": "Archojerboa"
 	},
@@ -3560,7 +3560,7 @@
 	},
 	{
 		"abr": "грузовойшаттл(режимпарения)",
-		"price": -10,
+		"price": 7500,
 		"category": "Animal",
 		"defname": "ShuttleCargoRace"
 	},
@@ -7669,12 +7669,6 @@
 		"defname": "Kurin_Legs_Long_Skirt"
 	},
 	{
-		"abr": "доспехи-купальниккимири",
-		"price": 650,
-		"category": "Костюмы куринов",
-		"defname": "Kimiri_OnSkin_Swimsuit_Armor"
-	},
-	{
 		"abr": "дружбакуринов",
 		"price": 742,
 		"category": "Оружие дальнего боя",
@@ -7727,12 +7721,6 @@
 		"price": 101,
 		"category": "Чулки куринов",
 		"defname": "Kurin_Stockings_Pantyhose"
-	},
-	{
-		"abr": "комбинезонкимири",
-		"price": 269,
-		"category": "Костюмы куринов",
-		"defname": "Kimiri_OnSkin_Short_Jumpsuit"
 	},
 	{
 		"abr": "конвертермясакуринов",
@@ -8401,18 +8389,6 @@
 		"defname": "Meat_Alien_Kijin"
 	},
 	{
-		"abr": "лестницавверх",
-		"price": 39,
-		"category": "Мебель",
-		"defname": "ZL_StairsUp"
-	},
-	{
-		"abr": "лестницавниз",
-		"price": 39,
-		"category": "Мебель",
-		"defname": "ZL_StairsDown"
-	},
-	{
 		"abr": "bfr3000",
 		"price": 3133,
 		"category": "Оружие дальнего боя",
@@ -8492,7 +8468,7 @@
 	},
 	{
 		"abr": "nyaron",
-		"price": 5000,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Alien_Nyaron"
 	},
@@ -8594,13 +8570,13 @@
 	},
 	{
 		"abr": "арктическийдезири",
-		"price": 333,
+		"price": 1000,
 		"category": "Животные",
 		"defname": "Animal_Desiri"
 	},
 	{
 		"abr": "арктическийори",
-		"price": 917,
+		"price": 1000,
 		"category": "Животные",
 		"defname": "Ori"
 	},
@@ -8750,7 +8726,7 @@
 	},
 	{
 		"abr": "грифон",
-		"price": 833,
+		"price": 1500,
 		"category": "Животные",
 		"defname": "Gryphon"
 	},
@@ -9050,7 +9026,7 @@
 	},
 	{
 		"abr": "неко",
-		"price": 3167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Alien_OrassanHumanHybrid"
 	},
@@ -9068,7 +9044,7 @@
 	},
 	{
 		"abr": "орассан",
-		"price": 3167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Alien_Orassan"
 	},
@@ -9140,13 +9116,13 @@
 	},
 	{
 		"abr": "пустынныйдезири",
-		"price": 333,
+		"price": -10,
 		"category": "Животные",
 		"defname": "Animal_Desiri_Desert"
 	},
 	{
 		"abr": "пустынныйори",
-		"price": 917,
+		"price": -10,
 		"category": "Животные",
 		"defname": "Ori_Desert"
 	},
@@ -9170,13 +9146,13 @@
 	},
 	{
 		"abr": "раткин",
-		"price": 3333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Ratkin"
 	},
 	{
 		"abr": "раткинподопытный",
-		"price": 3333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Ratkin_Su"
 	},
@@ -9212,7 +9188,7 @@
 	},
 	{
 		"abr": "ситцевыйори",
-		"price": 917,
+		"price": -10,
 		"category": "Животные",
 		"defname": "Ori_Calico"
 	},
@@ -9326,19 +9302,19 @@
 	},
 	{
 		"abr": "умеренныйдезири",
-		"price": 333,
+		"price": -10,
 		"category": "Животные",
 		"defname": "Animal_Desiri_TemperateOne"
 	},
 	{
 		"abr": "умеренныйдезири",
-		"price": 333,
+		"price": -10,
 		"category": "Животные",
 		"defname": "Animal_Desiri_TemperateTwo"
 	},
 	{
 		"abr": "умеренныйори",
-		"price": 917,
+		"price": -10,
 		"category": "Животные",
 		"defname": "Ori_Temperate"
 	},
@@ -9356,13 +9332,13 @@
 	},
 	{
 		"abr": "урбанистическийдезири",
-		"price": 333,
+		"price": -10,
 		"category": "Животные",
 		"defname": "Animal_Desiri_Urban"
 	},
 	{
 		"abr": "урбанистическийори",
-		"price": 917,
+		"price": -10,
 		"category": "Животные",
 		"defname": "Ori_Urban"
 	},
@@ -9869,7 +9845,151 @@
 		"price": 833,
 		"category": "Естественные",
 		"defname": "Jaw"
+	},
+	{
+		"abr": "advancedfissionreactor",
+		"price": 2300,
+		"category": "Synthetic body parts",
+		"defname": "RR_FissionReactorItem"
+	},
+	{
+		"abr": "cognitionlock",
+		"price": 278,
+		"category": "Synthetic body parts",
+		"defname": "RR_BoltedConciousnessItem"
+	},
+	{
+		"abr": "fuelnode",
+		"price": 60,
+		"category": "Блюда",
+		"defname": "FuelNode_SynthDiet"
+	},
+	{
+		"abr": "mechanent",
+		"price": -10,
+		"category": "Animal",
+		"defname": "Mechanent"
+	},
+	{
+		"abr": "mechanentcomponent",
+		"price": 2550,
+		"category": "Предметы",
+		"defname": "ComponentMechanent"
+	},
+	{
+		"abr": "mechanicalarm",
+		"price": 725,
+		"category": "Synthetic body parts",
+		"defname": "Item_MechArmSynth"
+	},
+	{
+		"abr": "mechanicaljaw",
+		"price": 658,
+		"category": "Synthetic body parts",
+		"defname": "Item_MechJawSynth"
+	},
+	{
+		"abr": "mechanicalleg",
+		"price": 725,
+		"category": "Synthetic body parts",
+		"defname": "Item_MechLegSynth"
+	},
+	{
+		"abr": "mechanoid-casket",
+		"price": 4242,
+		"category": "Производство",
+		"defname": "MechCreationCasket"
+	},
+	{
+		"abr": "nervewirecoil",
+		"price": 263,
+		"category": "Synthetic body parts",
+		"defname": "RR_NerveWireItem"
+	},
+	{
+		"abr": "overengineeredpsylink-former",
+		"price": 4333,
+		"category": "Архотехнологии",
+		"defname": "PsylinkFormerSynth"
+	},
+	{
+		"abr": "persona",
+		"price": -10,
+		"category": "Animal",
+		"defname": "Personae_"
+	},
+	{
+		"abr": "personacomponent",
+		"price": 10417,
+		"category": "Предметы",
+		"defname": "ComponentPersona"
+	},
+	{
+		"abr": "plasteelscythe",
+		"price": 758,
+		"category": "Synthetic body parts",
+		"defname": "RR_AddedScythesItem"
+	},
+	{
+		"abr": "self-alloyedhelm",
+		"price": 1508,
+		"category": "Synthetic body parts",
+		"defname": "RR_SelfAlloyingHelmItem"
+	},
+	{
+		"abr": "self-alloyedplating",
+		"price": 2875,
+		"category": "Synthetic body parts",
+		"defname": "RR_SelfAlloyingPlatingItem"
+	},
+	{
+		"abr": "syntheticarm",
+		"price": 1808,
+		"category": "Synthetic body parts",
+		"defname": "Item_SynthArmSynth"
+	},
+	{
+		"abr": "syntheticeye",
+		"price": 717,
+		"category": "Synthetic body parts",
+		"defname": "Item_SynthEyeSynth"
+	},
+	{
+		"abr": "syntheticjaw",
+		"price": 717,
+		"category": "Synthetic body parts",
+		"defname": "Item_SynthJawSynth"
+	},
+	{
+		"abr": "syntheticleg",
+		"price": 1808,
+		"category": "Synthetic body parts",
+		"defname": "Item_SynthLegSynth"
+	},
+	{
+		"abr": "visualsensor",
+		"price": 658,
+		"category": "Synthetic body parts",
+		"defname": "Item_MechEyeSynth"
+	},
+	{
+		"abr": "королева",
+		"price": 4167,
+		"category": "Животные",
+		"defname": "BI_Queen"
+	},
+	{
+		"abr": "короткийкомбинезонкимири",
+		"price": 281,
+		"category": "Костюмы куринов",
+		"defname": "Kurin_OnSkin_Short_Jumpsuit"
+	},
+	{
+		"abr": "экзоскелет",
+		"price": 3708,
+		"category": "Ультратехнологии",
+		"defname": "ExoskeletonSuit"
 	}
 	],
-	"total": 1646
+	"total": 1665
 }
