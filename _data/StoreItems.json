@@ -9989,7 +9989,739 @@
 		"price": 3708,
 		"category": "Ультратехнологии",
 		"defname": "ExoskeletonSuit"
+	},
+	{
+		"abr": "basicvibrocell",
+		"price": 3000,
+		"category": "Vibroblade motors",
+		"defname": "PJ_VibroMotorNorm"
+	},
+	{
+		"abr": "cryovibrocell",
+		"price": 5000,
+		"category": "Vibroblade motors",
+		"defname": "PJ_CryoCell"
+	},
+	{
+		"abr": "customhood",
+		"price": 417,
+		"category": "Головные уборы",
+		"defname": "PJ_CustomHood"
+	},
+	{
+		"abr": "damindcrystal(ltazure)",
+		"price": 5000,
+		"category": "Кристаллы меча",
+		"defname": "PJ_DamindCrystal"
+	},
+	{
+		"abr": "ectoplasm",
+		"price": 3,
+		"category": "Мясо",
+		"defname": "Meat_PJ_ForceGhostR"
+	},
+	{
+		"abr": "experimentalvibrocell",
+		"price": 8333,
+		"category": "Vibroblade motors",
+		"defname": "PJ_XXCell"
+	},
+	{
+		"abr": "hypersonicvibrocell",
+		"price": 5000,
+		"category": "Vibroblade motors",
+		"defname": "PJ_SonicCell"
+	},
+	{
+		"abr": "jedigarb",
+		"price": 197,
+		"category": "Одежда",
+		"defname": "PJ_InnerRobes"
+	},
+	{
+		"abr": "jedihood",
+		"price": 417,
+		"category": "Головные уборы",
+		"defname": "PJ_JediHood"
+	},
+	{
+		"abr": "jedirobe",
+		"price": 458,
+		"category": "Одежда",
+		"defname": "PJ_Jedi_Robe"
+	},
+	{
+		"abr": "meditationpad(jedi)",
+		"price": 147,
+		"category": "Мебель",
+		"defname": "PJ_ForceMedPadJ"
+	},
+	{
+		"abr": "meditationpad(sith)",
+		"price": 147,
+		"category": "Мебель",
+		"defname": "PJ_ForceMedPadS"
+	},
+	{
+		"abr": "rebelb-wingflightsuit",
+		"price": 1167,
+		"category": "Одежда",
+		"defname": "PJ_RebBFlight"
+	},
+	{
+		"abr": "sithhood",
+		"price": 417,
+		"category": "Головные уборы",
+		"defname": "PJ_SithHood"
+	},
+	{
+		"abr": "sithrobes",
+		"price": 458,
+		"category": "Одежда",
+		"defname": "PJ_Sith_Robe"
+	},
+	{
+		"abr": "specopsvibrocell",
+		"price": 8333,
+		"category": "Vibroblade motors",
+		"defname": "PJ_SpecOpsCell"
+	},
+	{
+		"abr": "бластерdl-44",
+		"price": 1725,
+		"category": "Оружие дальнего боя",
+		"defname": "PJ_DL44blaster"
+	},
+	{
+		"abr": "бластерse14",
+		"price": 1725,
+		"category": "Оружие дальнего боя",
+		"defname": "PJ_SE14blaster"
+	},
+	{
+		"abr": "бластерразведчика",
+		"price": 1725,
+		"category": "Оружие дальнего боя",
+		"defname": "PJ_Scoutblaster"
+	},
+	{
+		"abr": "бластернаявинтовкаdc-15",
+		"price": 1725,
+		"category": "Оружие дальнего боя",
+		"defname": "PJ_DC15Rifle"
+	},
+	{
+		"abr": "бластернаявинтовкае-11",
+		"price": 3667,
+		"category": "Оружие дальнего боя",
+		"defname": "PJ_E11Blaster"
+	},
+	{
+		"abr": "бластернаявинтовкат-21",
+		"price": 1725,
+		"category": "Оружие дальнего боя",
+		"defname": "PJ_T21Rifle"
+	},
+	{
+		"abr": "бластерныйкарабинdxr-6",
+		"price": 1725,
+		"category": "Оружие дальнего боя",
+		"defname": "PJ_DXR6Carb"
+	},
+	{
+		"abr": "бластерныйкарабинее-3",
+		"price": 1725,
+		"category": "Оружие дальнего боя",
+		"defname": "PJ_EE3Carbine"
+	},
+	{
+		"abr": "бластерныйпистолетdh-17",
+		"price": 3667,
+		"category": "Оружие дальнего боя",
+		"defname": "PJ_DH17Blaster"
+	},
+	{
+		"abr": "бронякланабарки",
+		"price": 10250,
+		"category": "Одежда",
+		"defname": "PJ_BarkMandoArmor"
+	},
+	{
+		"abr": "броняштурмовика",
+		"price": 6750,
+		"category": "Одежда",
+		"defname": "PJ_TroopArmor"
+	},
+	{
+		"abr": "броняштурмовика",
+		"price": 6750,
+		"category": "Одежда",
+		"defname": "PJ_TroopArmorSO"
+	},
+	{
+		"abr": "броняштурмовика(команд.)",
+		"price": 6750,
+		"category": "Одежда",
+		"defname": "PJ_TroopArmorJO"
+	},
+	{
+		"abr": "броняштурмовика(серж.)",
+		"price": 6750,
+		"category": "Одежда",
+		"defname": "PJ_TroopArmorNCO"
+	},
+	{
+		"abr": "броняштурмовикабереговойохраны",
+		"price": 6750,
+		"category": "Одежда",
+		"defname": "PJ_TroopArmorSh"
+	},
+	{
+		"abr": "броняштурмовикабереговойохраны(кап.)",
+		"price": 6750,
+		"category": "Одежда",
+		"defname": "PJ_TroopArmorShC"
+	},
+	{
+		"abr": "броняштурмовикабереговойохраны(серж.)",
+		"price": 6750,
+		"category": "Одежда",
+		"defname": "PJ_TroopArmorShSL"
+	},
+	{
+		"abr": "броняштурмовикасмерти",
+		"price": 7083,
+		"category": "Одежда",
+		"defname": "PJ_TroopArmorDT"
+	},
+	{
+		"abr": "броняштурмовикасмерти(команд.)",
+		"price": 7250,
+		"category": "Одежда",
+		"defname": "PJ_TroopArmorDTC"
+	},
+	{
+		"abr": "брюкиуниформы",
+		"price": 209,
+		"category": "Одежда",
+		"defname": "PJ_Apparel_Pants"
+	},
+	{
+		"abr": "виброкоса",
+		"price": 5000,
+		"category": "Оружие ближнего боя",
+		"defname": "PJ_VScythe"
+	},
+	{
+		"abr": "вибромеч",
+		"price": 5000,
+		"category": "Оружие ближнего боя",
+		"defname": "PJ_Vibrosword"
+	},
+	{
+		"abr": "вибропосох(прототип)",
+		"price": 21667,
+		"category": "Оружие ближнего боя",
+		"defname": "PJ_StaffX"
+	},
+	{
+		"abr": "вибропосох(таскены)",
+		"price": 21667,
+		"category": "Оружие ближнего боя",
+		"defname": "PJ_TStaff"
+	},
+	{
+		"abr": "виброрапира(мандалорская)",
+		"price": 5000,
+		"category": "Оружие ближнего боя",
+		"defname": "PJ_Vibrocleaver"
+	},
+	{
+		"abr": "вибротопор(прототип)",
+		"price": 5000,
+		"category": "Оружие ближнего боя",
+		"defname": "PJ_Vibroaxe"
+	},
+	{
+		"abr": "внутренниекомпонентысветовогомеча",
+		"price": 500,
+		"category": "Предметы",
+		"defname": "PJ_SaberInternal"
+	},
+	{
+		"abr": "двойнойвибромеч",
+		"price": 5000,
+		"category": "Оружие ближнего боя",
+		"defname": "PJ_Vibrodouble"
+	},
+	{
+		"abr": "двойнойсветовоймеч(инквизитор)",
+		"price": 5000,
+		"category": "Оружие ближнего боя",
+		"defname": "SWSaber_Inquis"
+	},
+	{
+		"abr": "жёлтыйлетныйкостюм",
+		"price": 167,
+		"category": "Одежда",
+		"defname": "PJ_GenFlight_Y"
+	},
+	{
+		"abr": "жемчужинакрайтдракона(чёрный)",
+		"price": 8333,
+		"category": "Кристаллы меча",
+		"defname": "PJ_BlackPearl"
+	},
+	{
+		"abr": "имперскаявоенно-морскаяуниформа(внешняя-черная)",
+		"price": 167,
+		"category": "Одежда",
+		"defname": "PJ_ImpNAVYSHELL"
+	},
+	{
+		"abr": "имперскаявоенно-морскаяуниформа(внешняя-черная)",
+		"price": 167,
+		"category": "Одежда",
+		"defname": "PJ_ImpUniformBlackSHELL"
+	},
+	{
+		"abr": "имперскаявоенно-морскаяуниформа(внутричерный)",
+		"price": 167,
+		"category": "Одежда",
+		"defname": "PJ_ImpUniformBlack"
+	},
+	{
+		"abr": "имперскаявоенно-морскаяуниформа(внешняя-зеленая)",
+		"price": 167,
+		"category": "Одежда",
+		"defname": "PJ_ImpUniformGrnSHELL"
+	},
+	{
+		"abr": "имперскаявоенно-морскаяуниформа(внешняя-коричневая)",
+		"price": 167,
+		"category": "Одежда",
+		"defname": "PJ_ImpUniformBrownSHELL"
+	},
+	{
+		"abr": "имперскаяибсуниформа(внешняя)",
+		"price": 167,
+		"category": "Одежда",
+		"defname": "PJ_ImpUniformISBSHELL"
+	},
+	{
+		"abr": "имперскиекредиты",
+		"price": 0,
+		"category": "Материалы",
+		"defname": "PJ_ImperialCredit"
+	},
+	{
+		"abr": "имперскийвоенно-морскойшлем",
+		"price": 417,
+		"category": "Головные уборы",
+		"defname": "PJ_ImpNavyH"
+	},
+	{
+		"abr": "имперскийкомбинезонуниформы(внутренняясетка)",
+		"price": 167,
+		"category": "Одежда",
+		"defname": "PJ_ImpUniform"
+	},
+	{
+		"abr": "ионнаявинтовкаджав",
+		"price": 1725,
+		"category": "Оружие дальнего боя",
+		"defname": "PJ_JawaIon"
+	},
+	{
+		"abr": "камуфляжнаякуртка",
+		"price": 296,
+		"category": "Одежда",
+		"defname": "PJ_Reb_CamoJacket"
+	},
+	{
+		"abr": "композитнаяброня",
+		"price": 6750,
+		"category": "Одежда",
+		"defname": "PJ_CompArmor"
+	},
+	{
+		"abr": "корпуссветовогомеча",
+		"price": 500,
+		"category": "Предметы",
+		"defname": "PJ_SaberCasing"
+	},
+	{
+		"abr": "кристалладеган(зелёный)",
+		"price": 5000,
+		"category": "Кристаллы меча",
+		"defname": "PJ_AdeganCrystal"
+	},
+	{
+		"abr": "кристаллбараб(оранжевый)",
+		"price": 5000,
+		"category": "Кристаллы меча",
+		"defname": "PJ_BarabIngot"
+	},
+	{
+		"abr": "кристаллдрагит(фиолетовый)",
+		"price": 5000,
+		"category": "Кристаллы меча",
+		"defname": "PJ_DragiteCrystal"
+	},
+	{
+		"abr": "кристаллералам(серебряный)",
+		"price": 5000,
+		"category": "Кристаллы меча",
+		"defname": "PJ_EralamCrystal"
+	},
+	{
+		"abr": "кристаллкайбурра(красно-оранжевый)",
+		"price": 8333,
+		"category": "Кристаллы меча",
+		"defname": "PJ_KaiburrCrystal"
+	},
+	{
+		"abr": "кристаллпонтит(ледянойсиний)",
+		"price": 5000,
+		"category": "Кристаллы меча",
+		"defname": "PJ_PontiteCrystal"
+	},
+	{
+		"abr": "кристаллрубат(бронзовый)",
+		"price": 5000,
+		"category": "Кристаллы меча",
+		"defname": "PJ_RubatCrystal"
+	},
+	{
+		"abr": "кристаллфиркранн(серебряный)",
+		"price": 5000,
+		"category": "Кристаллы меча",
+		"defname": "PJ_FirkrannCrystal"
+	},
+	{
+		"abr": "кристаллхуррикэйн(тёмно-фиолетовый)",
+		"price": 5000,
+		"category": "Кристаллы меча",
+		"defname": "PJ_HurCrystal"
+	},
+	{
+		"abr": "курткапехотинца",
+		"price": 229,
+		"category": "Одежда",
+		"defname": "PJ_Reb_TroopJacket"
+	},
+	{
+		"abr": "курткаразведчика",
+		"price": 229,
+		"category": "Одежда",
+		"defname": "PJ_Reb_ScoutJacket"
+	},
+	{
+		"abr": "курткаразведчика(коричневая)",
+		"price": 229,
+		"category": "Одежда",
+		"defname": "PJ_Reb_ScoutLAVJacket"
+	},
+	{
+		"abr": "лётныйкомбинезонповстанцев",
+		"price": 1167,
+		"category": "Одежда",
+		"defname": "PJ_RebFlight"
+	},
+	{
+		"abr": "маедалорскаяброня",
+		"price": 10083,
+		"category": "Одежда",
+		"defname": "PJ_MandoArmor"
+	},
+	{
+		"abr": "маедалорскийшлем",
+		"price": 2533,
+		"category": "Головные уборы",
+		"defname": "PJ_MandoHelm"
+	},
+	{
+		"abr": "мандалорскаяветеранскаяброня",
+		"price": 10250,
+		"category": "Одежда",
+		"defname": "PJ_VetMandoArmor"
+	},
+	{
+		"abr": "модифицированнаярубашка",
+		"price": 194,
+		"category": "Одежда",
+		"defname": "PJ_RebCollarShirt"
+	},
+	{
+		"abr": "неймскийпулемет-карабин",
+		"price": 1725,
+		"category": "Оружие дальнего боя",
+		"defname": "PJ_NymSlug"
+	},
+	{
+		"abr": "обычноеодеяниеджедая",
+		"price": 467,
+		"category": "Одежда",
+		"defname": "PJ_JFac_Robe"
+	},
+	{
+		"abr": "обычноеодеяниеситхов",
+		"price": 467,
+		"category": "Одежда",
+		"defname": "PJ_SithFac_Robe"
+	},
+	{
+		"abr": "офицерскаяуниформаштурмовика(внутренняя)",
+		"price": 167,
+		"category": "Одежда",
+		"defname": "PJ_STOffUniform"
+	},
+	{
+		"abr": "предельнаяжемчужина(бледный)",
+		"price": 8333,
+		"category": "Кристаллы меча",
+		"defname": "PJ_UltimaPearl"
+	},
+	{
+		"abr": "пусковойпистолет",
+		"price": 1725,
+		"category": "Оружие дальнего боя",
+		"defname": "PJ_LauncherP"
+	},
+	{
+		"abr": "сапфиранкарреса(тёмно-синий)",
+		"price": 8333,
+		"category": "Кристаллы меча",
+		"defname": "PJ_AnkSapphire"
+	},
+	{
+		"abr": "световаяпика",
+		"price": 5000,
+		"category": "Оружие ближнего боя",
+		"defname": "SWSaber_SaberPike"
+	},
+	{
+		"abr": "световоймеч(асокатано)",
+		"price": 5000,
+		"category": "Оружие ближнего боя",
+		"defname": "SWSaber_Ahsokasaber"
+	},
+	{
+		"abr": "световоймеч(двойной)",
+		"price": 5000,
+		"category": "Оружие ближнего боя",
+		"defname": "SWSaber_Doublesaber"
+	},
+	{
+		"abr": "световоймеч(изогнутаярукоятка)",
+		"price": 5000,
+		"category": "Оружие ближнего боя",
+		"defname": "SWSaber_DookuSaber"
+	},
+	{
+		"abr": "световоймеч(йода)",
+		"price": 5000,
+		"category": "Оружие ближнего боя",
+		"defname": "SWSaber_Yodasaber"
+	},
+	{
+		"abr": "световоймеч(квай-гонджинн)",
+		"price": 5000,
+		"category": "Оружие ближнего боя",
+		"defname": "SWSaber_Quigon"
+	},
+	{
+		"abr": "световоймеч(крестообразнаярукоять)",
+		"price": 5000,
+		"category": "Оружие ближнего боя",
+		"defname": "SWSaber_KyloSaber"
+	},
+	{
+		"abr": "световоймеч(мейсвинду)",
+		"price": 5000,
+		"category": "Оружие ближнего боя",
+		"defname": "SWSaber_MaceSaber"
+	},
+	{
+		"abr": "световоймеч(прототип)",
+		"price": 5000,
+		"category": "Оружие ближнего боя",
+		"defname": "SWSaber_Lightsaber"
+	},
+	{
+		"abr": "световоймеч(рукояткастарогостиля)",
+		"price": 5000,
+		"category": "Оружие ближнего боя",
+		"defname": "SWSaber_ObiSaber"
+	},
+	{
+		"abr": "световоймеч(тёмныймеч)",
+		"price": 5000,
+		"category": "Оружие ближнего боя",
+		"defname": "SWSaber_Darksaber"
+	},
+	{
+		"abr": "световоймеч(электр.рукоятка)",
+		"price": 5000,
+		"category": "Оружие ближнего боя",
+		"defname": "SWSaber_ElectrumSaber"
+	},
+	{
+		"abr": "световойпосохпочетногокараула",
+		"price": 5000,
+		"category": "Оружие ближнего боя",
+		"defname": "SWSaber_JGuard"
+	},
+	{
+		"abr": "синтетическийкристалл(красный)",
+		"price": 3000,
+		"category": "Кристаллы меча",
+		"defname": "PJ_KyberCrystalRed"
+	},
+	{
+		"abr": "тяжёлаябластернаявинтовкаdlt-19",
+		"price": 1725,
+		"category": "Оружие дальнего боя",
+		"defname": "PJ_DLT19Rifle"
+	},
+	{
+		"abr": "униформаофицераальянсаповстанцев",
+		"price": 1167,
+		"category": "Одежда",
+		"defname": "PJ_RebOfficer"
+	},
+	{
+		"abr": "усиленныйбронежилет",
+		"price": 642,
+		"category": "Одежда",
+		"defname": "PJ_Apparel_XVestPlate"
+	},
+	{
+		"abr": "фуражкаимперскогокомандира",
+		"price": 417,
+		"category": "Головные уборы",
+		"defname": "PJ_ImpHat"
+	},
+	{
+		"abr": "фуражкаимперскогокомандира",
+		"price": 417,
+		"category": "Головные уборы",
+		"defname": "PJ_ImpHatBrn"
+	},
+	{
+		"abr": "фуражкаимперскогокомандира(темная)",
+		"price": 417,
+		"category": "Головные уборы",
+		"defname": "PJ_ImpSTOHat"
+	},
+	{
+		"abr": "фуражкаимперскогокомандира(черная)",
+		"price": 417,
+		"category": "Головные уборы",
+		"defname": "PJ_ImpHatB"
+	},
+	{
+		"abr": "цветкристалла(голубой)",
+		"price": 150,
+		"category": "Кристаллы меча",
+		"defname": "PJ_KyberCrystalCyan"
+	},
+	{
+		"abr": "цветкристалла(жёлтый)",
+		"price": 150,
+		"category": "Кристаллы меча",
+		"defname": "PJ_KyberCrystalYellow"
+	},
+	{
+		"abr": "цветкристалла(зелёный)",
+		"price": 150,
+		"category": "Кристаллы меча",
+		"defname": "PJ_KyberCrystal"
+	},
+	{
+		"abr": "цветкристалла(лазурный)",
+		"price": 150,
+		"category": "Кристаллы меча",
+		"defname": "PJ_KyberCrystalAzure"
+	},
+	{
+		"abr": "цветкристалла(пурпурный)",
+		"price": 150,
+		"category": "Кристаллы меча",
+		"defname": "PJ_KyberCrystalPurple"
+	},
+	{
+		"abr": "цветкристалла(синий)",
+		"price": 150,
+		"category": "Кристаллы меча",
+		"defname": "PJ_KyberCrystalBlue"
+	},
+	{
+		"abr": "шлемtieпилота",
+		"price": 2033,
+		"category": "Головные уборы",
+		"defname": "PJ_TIEHelm"
+	},
+	{
+		"abr": "шлемальянсамятежников",
+		"price": 162,
+		"category": "Головные уборы",
+		"defname": "PJ_RebHat"
+	},
+	{
+		"abr": "шлеммятежникадляхолодныхтемператур",
+		"price": 155,
+		"category": "Головные уборы",
+		"defname": "PJ_RebSnowHat"
+	},
+	{
+		"abr": "шлемпилотаповстанцев(красный)",
+		"price": 163,
+		"category": "Головные уборы",
+		"defname": "PJ_RebPilot_H_Red"
+	},
+	{
+		"abr": "шлемпилотаповстанцев(синий)",
+		"price": 79,
+		"category": "Головные уборы",
+		"defname": "PJ_RebPilot_H_Blue"
+	},
+	{
+		"abr": "шлемразведчикамятежников(коричневый)",
+		"price": 162,
+		"category": "Головные уборы",
+		"defname": "PJ_RebLAVHat"
+	},
+	{
+		"abr": "шлемразведчикамятежников(лес)",
+		"price": 162,
+		"category": "Головные уборы",
+		"defname": "PJ_RebScoutHat"
+	},
+	{
+		"abr": "шлемштурмовика",
+		"price": 1333,
+		"category": "Головные уборы",
+		"defname": "PJ_STHelm"
+	},
+	{
+		"abr": "шлемштурмовикабереговойохраны",
+		"price": 1333,
+		"category": "Головные уборы",
+		"defname": "PJ_SHHelm"
+	},
+	{
+		"abr": "шлемштурмовикаразведчика",
+		"price": 1367,
+		"category": "Головные уборы",
+		"defname": "PJ_SCTHelm"
+	},
+	{
+		"abr": "шлемштурмовикасмерти",
+		"price": 1500,
+		"category": "Головные уборы",
+		"defname": "PJ_DTHelm"
 	}
 	],
-	"total": 1665
+	"total": 1787
 }
