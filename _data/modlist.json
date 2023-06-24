@@ -283,12 +283,6 @@
   },
   {
     "author": "Animal Mind",
-    "name": "Rus Dubs Mint Menus",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Animal Mind",
     "name": "Rus Clean Pathfinding",
     "steamId": null,
     "version": null
@@ -446,6 +440,24 @@
   {
     "author": "Xen и Jecrell",
     "name": "Star Wars - Factions",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Razor 2.3",
+    "name": "Auto-Cut Blight",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Animal Mind",
+    "name": "Rus Dubs Mint Menus",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "bean",
+    "name": "Red Army (Continued)",
     "steamId": null,
     "version": null
   }

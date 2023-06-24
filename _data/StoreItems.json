@@ -10310,7 +10310,7 @@
 	},
 	{
 		"abr": "имперскиекредиты",
-		"price": 0,
+		"price": -10,
 		"category": "Материалы",
 		"defname": "PJ_ImperialCredit"
 	},
@@ -10721,7 +10721,145 @@
 		"price": 1500,
 		"category": "Головные уборы",
 		"defname": "PJ_DTHelm"
+	},
+	{
+		"abr": "ремонтныйверстак",
+		"price": 583,
+		"category": "Производство",
+		"defname": "TableMending"
+	},
+	{
+		"abr": "ремонтныйнабор",
+		"price": 17,
+		"category": "Изделия",
+		"defname": "MendingKit"
+	},
+	{
+		"abr": "boxofmaximhmgrounds",
+		"price": 23,
+		"category": "Изделия",
+		"defname": "MaximRounds"
+	},
+	{
+		"abr": "dp27lightmachinegun",
+		"price": 1167,
+		"category": "Оружие дальнего боя",
+		"defname": "DPTwentySeven"
+	},
+	{
+		"abr": "fieldcap",
+		"price": 250,
+		"category": "Головные уборы",
+		"defname": "Apparel_RAPeakCap"
+	},
+	{
+		"abr": "maximhmg",
+		"price": 1358,
+		"category": "Защита",
+		"defname": "Turret_Maxim"
+	},
+	{
+		"abr": "mosinnagant-sniper",
+		"price": 1000,
+		"category": "Оружие дальнего боя",
+		"defname": "MosinSniper"
+	},
+	{
+		"abr": "mosinnagant-snipervariant",
+		"price": 1100,
+		"category": "Оружие дальнего боя",
+		"defname": "MosinSniperVariant"
+	},
+	{
+		"abr": "mosinnagant91/30",
+		"price": 667,
+		"category": "Оружие дальнего боя",
+		"defname": "MosinNagant"
+	},
+	{
+		"abr": "nagant1895pistol",
+		"price": 750,
+		"category": "Оружие дальнего боя",
+		"defname": "Nagant1895Pistol"
+	},
+	{
+		"abr": "ppshmodel41drum",
+		"price": 917,
+		"category": "Оружие дальнего боя",
+		"defname": "PPSh"
+	},
+	{
+		"abr": "redarmytunic",
+		"price": 750,
+		"category": "Одежда",
+		"defname": "Apparel_RAInfantry"
+	},
+	{
+		"abr": "redarmytunic-guardsrifle",
+		"price": 925,
+		"category": "Одежда",
+		"defname": "Apparel_RAGuards"
+	},
+	{
+		"abr": "rg-42",
+		"price": 667,
+		"category": "Гранаты",
+		"defname": "Weapon_RGFortyTwo"
+	},
+	{
+		"abr": "smallsovietsculpture",
+		"price": 350,
+		"category": "Искусство",
+		"defname": "SovietStatueSmall"
+	},
+	{
+		"abr": "sovietbanner",
+		"price": 408,
+		"category": "Оружие ближнего боя",
+		"defname": "SovietBanner"
+	},
+	{
+		"abr": "sovietcloak",
+		"price": 417,
+		"category": "Головные уборы",
+		"defname": "Apparel_ScoutCloak"
+	},
+	{
+		"abr": "sovietflag",
+		"price": 51,
+		"category": "Искусство",
+		"defname": "SovietFlag"
+	},
+	{
+		"abr": "steelinfantryhelmet",
+		"price": 583,
+		"category": "Головные уборы",
+		"defname": "Apparel_StrelkyHelmet"
+	},
+	{
+		"abr": "steelinfantryhelmet",
+		"price": 583,
+		"category": "Головные уборы",
+		"defname": "Apparel_GuardsHelmet"
+	},
+	{
+		"abr": "svt-40",
+		"price": 917,
+		"category": "Оружие дальнего боя",
+		"defname": "SVTForty"
+	},
+	{
+		"abr": "vodka",
+		"price": 42,
+		"category": "Наркотики",
+		"defname": "SovietVodka"
+	},
+	{
+		"abr": "zis2",
+		"price": 1358,
+		"category": "Защита",
+		"defname": "Turret_Zis"
 	}
 	],
-	"total": 1787
+	"total": 1810
 }
