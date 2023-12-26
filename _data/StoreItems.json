@@ -8099,7 +8099,679 @@
 		"price": 70,
 		"category": "Мебель",
 		"defname": "DankPyon_ShelfFilledFood"
+	},
+	{
+		"abr": "aetherialrobe",
+		"price": 288,
+		"category": "A Rim Reborn",
+		"defname": "ARR_CasterRobeBasic"
+	},
+	{
+		"abr": "aethericcarbine",
+		"price": 433,
+		"category": "Оружие дальнего боя",
+		"defname": "ARR_Carbine"
+	},
+	{
+		"abr": "aethericcompositebow",
+		"price": 161,
+		"category": "Оружие дальнего боя",
+		"defname": "ARR_CompositeBow"
+	},
+	{
+		"abr": "aethericcooler",
+		"price": 128,
+		"category": "A Rim Reborn",
+		"defname": "ARR_AethericCooler"
+	},
+	{
+		"abr": "aethericcraftingtable",
+		"price": 408,
+		"category": "Производство",
+		"defname": "ARR_AetherCraftTable"
+	},
+	{
+		"abr": "aethericcraftingtable(linked)",
+		"price": 517,
+		"category": "Производство",
+		"defname": "ARR_AetherCraftTableLinked"
+	},
+	{
+		"abr": "aethericdoublepistol",
+		"price": 286,
+		"category": "Оружие дальнего боя",
+		"defname": "ARR_DoublePistol"
+	},
+	{
+		"abr": "aethericfalchion",
+		"price": 248,
+		"category": "Оружие ближнего боя",
+		"defname": "ARR_Falchion"
+	},
+	{
+		"abr": "aethericheater",
+		"price": 160,
+		"category": "A Rim Reborn",
+		"defname": "ARR_AethericHeater"
+	},
+	{
+		"abr": "aethericicecooler",
+		"price": 191,
+		"category": "A Rim Reborn",
+		"defname": "ARR_AethericIceCooler"
+	},
+	{
+		"abr": "aethericlongbow",
+		"price": 193,
+		"category": "Оружие дальнего боя",
+		"defname": "ARR_LongBow"
+	},
+	{
+		"abr": "aethericmachiningtable",
+		"price": 792,
+		"category": "Производство",
+		"defname": "ARR_AetherMachineTable"
+	},
+	{
+		"abr": "aethericpreptable",
+		"price": 342,
+		"category": "Производство",
+		"defname": "ARR_AetherPrepTable"
+	},
+	{
+		"abr": "aethericpreptable(linked)",
+		"price": 408,
+		"category": "Производство",
+		"defname": "ARR_AetherPrepTableLinked"
+	},
+	{
+		"abr": "aethericspear",
+		"price": 331,
+		"category": "Оружие ближнего боя",
+		"defname": "ARR_Spear"
+	},
+	{
+		"abr": "aetherictailoringtable",
+		"price": 408,
+		"category": "Производство",
+		"defname": "ARR_AetherTailorTable"
+	},
+	{
+		"abr": "aetherictailoringtable(linked)",
+		"price": 517,
+		"category": "Производство",
+		"defname": "ARR_AetherTailorTableLinked"
+	},
+	{
+		"abr": "aethericthermostat",
+		"price": 425,
+		"category": "A Rim Reborn",
+		"defname": "ARR_AethericThermostat"
+	},
+	{
+		"abr": "aethericzweihander",
+		"price": 467,
+		"category": "Оружие ближнего боя",
+		"defname": "ARR_Zweihander"
+	},
+	{
+		"abr": "alchemicalmedicine",
+		"price": 27,
+		"category": "Медикаменты",
+		"defname": "ARR_MedicineAlchemical"
+	},
+	{
+		"abr": "aldenardbelladonna",
+		"price": 3,
+		"category": "Alchemical herbs",
+		"defname": "ARR_Belladonna"
+	},
+	{
+		"abr": "animapendant",
+		"price": 112,
+		"category": "Utility",
+		"defname": "ARR_AnimaPendant"
+	},
+	{
+		"abr": "antidote",
+		"price": 133,
+		"category": "Potions",
+		"defname": "ARR_PotionAntidote"
+	},
+	{
+		"abr": "archer'sbow",
+		"price": 392,
+		"category": "Disciple of war",
+		"defname": "ARR_Weapon_Archer_Basic"
+	},
+	{
+		"abr": "artemisbow",
+		"price": 5000,
+		"category": "Disciple of war",
+		"defname": "ARR_RelicWeapon_ArtemisBow"
+	},
+	{
+		"abr": "aura",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "ARR_AuRaRaen"
+	},
+	{
+		"abr": "aura",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "ARR_AuRaXaela"
+	},
+	{
+		"abr": "auribreeches",
+		"price": 141,
+		"category": "A Rim Reborn",
+		"defname": "ARR_ApparelAuRaBottomMale"
+	},
+	{
+		"abr": "aurigown",
+		"price": 157,
+		"category": "A Rim Reborn",
+		"defname": "ARR_ApparelAuRaTopFemale"
+	},
+	{
+		"abr": "auripantalettes",
+		"price": 141,
+		"category": "A Rim Reborn",
+		"defname": "ARR_ApparelAuRaBottomFemale"
+	},
+	{
+		"abr": "aurivest",
+		"price": 157,
+		"category": "A Rim Reborn",
+		"defname": "ARR_ApparelAuRaTopMale"
+	},
+	{
+		"abr": "bloodshoremandrake",
+		"price": 3,
+		"category": "Alchemical herbs",
+		"defname": "ARR_Mandrake"
+	},
+	{
+		"abr": "bravura",
+		"price": 5000,
+		"category": "Disciple of war",
+		"defname": "ARR_RelicWeapon_Bravura"
+	},
+	{
+		"abr": "conjurer'scane",
+		"price": 327,
+		"category": "Disciple of magic",
+		"defname": "ARR_Weapon_Conjurer_Basic"
+	},
+	{
+		"abr": "crystalsand",
+		"price": 2,
+		"category": "Crystals",
+		"defname": "ARR_CrystalSand"
+	},
+	{
+		"abr": "cuirass",
+		"price": 327,
+		"category": "Armor",
+		"defname": "ARR_LeatherCuirass"
+	},
+	{
+		"abr": "cuirass",
+		"price": 350,
+		"category": "Armor",
+		"defname": "ARR_MetalCuirass"
+	},
+	{
+		"abr": "earthcrystal",
+		"price": 0,
+		"category": "Crystals",
+		"defname": "ARR_EarthCrystal"
+	},
+	{
+		"abr": "eorzeanknife",
+		"price": 110,
+		"category": "Оружие ближнего боя",
+		"defname": "ARR_Knife"
+	},
+	{
+		"abr": "eorzeanseedstock",
+		"price": 170,
+		"category": "A Rim Reborn",
+		"defname": "ARR_SeedStock"
+	},
+	{
+		"abr": "ether",
+		"price": 83,
+		"category": "Potions",
+		"defname": "ARR_PotionEther"
+	},
+	{
+		"abr": "firecrystal",
+		"price": 0,
+		"category": "Crystals",
+		"defname": "ARR_FireCrystal"
+	},
+	{
+		"abr": "gaebolg",
+		"price": 5000,
+		"category": "Disciple of war",
+		"defname": "ARR_RelicWeapon_GaeBolg"
+	},
+	{
+		"abr": "gilbun",
+		"price": 2,
+		"category": "Alchemical herbs",
+		"defname": "ARR_GilBun"
+	},
+	{
+		"abr": "gladefloorlamp",
+		"price": 83,
+		"category": "A Rim Reborn",
+		"defname": "ARR_FloorLampGlade"
+	},
+	{
+		"abr": "glamourtable",
+		"price": 171,
+		"category": "Производство",
+		"defname": "ARR_GlamourTable"
+	},
+	{
+		"abr": "glamouredduster",
+		"price": 331,
+		"category": "A Rim Reborn",
+		"defname": "ARR_DusterGlamoured"
+	},
+	{
+		"abr": "glamouredjacket",
+		"price": 271,
+		"category": "A Rim Reborn",
+		"defname": "ARR_JacketGlamoured"
+	},
+	{
+		"abr": "glamouredparka",
+		"price": 310,
+		"category": "A Rim Reborn",
+		"defname": "ARR_ParkaGlamoured"
+	},
+	{
+		"abr": "glamouredpothelm",
+		"price": 151,
+		"category": "Headwear",
+		"defname": "ARR_PotHelmGlamoured"
+	},
+	{
+		"abr": "glamouredsallet",
+		"price": 169,
+		"category": "Headwear",
+		"defname": "ARR_SalletGlamoured"
+	},
+	{
+		"abr": "hauberk",
+		"price": 533,
+		"category": "Armor",
+		"defname": "ARR_Hauberk"
+	},
+	{
+		"abr": "hi-potion",
+		"price": 133,
+		"category": "Potions",
+		"defname": "ARR_PotionHi"
+	},
+	{
+		"abr": "hyur",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "ARR_HyurMidlander"
+	},
+	{
+		"abr": "hyur",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "ARR_HyurHighlander"
+	},
+	{
+		"abr": "hyuranbreeches",
+		"price": 141,
+		"category": "A Rim Reborn",
+		"defname": "ARR_ApparelHyurBottomMale"
+	},
+	{
+		"abr": "hyuranchemisette",
+		"price": 157,
+		"category": "A Rim Reborn",
+		"defname": "ARR_ApparelHyurTopFemale"
+	},
+	{
+		"abr": "hyuranskirt",
+		"price": 141,
+		"category": "A Rim Reborn",
+		"defname": "ARR_ApparelHyurBottomFemale"
+	},
+	{
+		"abr": "hyurantunic",
+		"price": 157,
+		"category": "A Rim Reborn",
+		"defname": "ARR_ApparelHyurTopMale"
+	},
+	{
+		"abr": "icecrystal",
+		"price": 0,
+		"category": "Crystals",
+		"defname": "ARR_IceCrystal"
+	},
+	{
+		"abr": "infusedanimapendant",
+		"price": 165,
+		"category": "Utility",
+		"defname": "ARR_AnimaPendantInfused"
+	},
+	{
+		"abr": "knitcap",
+		"price": 73,
+		"category": "Headwear",
+		"defname": "ARR_KnitCap"
+	},
+	{
+		"abr": "lalafell",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "ARR_LalafellPlainsfolk"
+	},
+	{
+		"abr": "lalafell",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "ARR_LalafellDunesfolk"
+	},
+	{
+		"abr": "lalafellinbloomers",
+		"price": 141,
+		"category": "A Rim Reborn",
+		"defname": "ARR_ApparelLalafellBottomFemale"
+	},
+	{
+		"abr": "lalafellingaskins",
+		"price": 141,
+		"category": "A Rim Reborn",
+		"defname": "ARR_ApparelLalafellBottomMale"
+	},
+	{
+		"abr": "lalafellinkaftan",
+		"price": 157,
+		"category": "A Rim Reborn",
+		"defname": "ARR_ApparelLalafellTopFemale"
+	},
+	{
+		"abr": "lalafellintunic",
+		"price": 157,
+		"category": "A Rim Reborn",
+		"defname": "ARR_ApparelLalafellTopMale"
+	},
+	{
+		"abr": "lancer'sspear",
+		"price": 392,
+		"category": "Disciple of war",
+		"defname": "ARR_Weapon_Lancer_Basic"
+	},
+	{
+		"abr": "lightningcrystal",
+		"price": 0,
+		"category": "Crystals",
+		"defname": "ARR_LightningCrystal"
+	},
+	{
+		"abr": "lightninggenerator",
+		"price": 442,
+		"category": "A Rim Reborn",
+		"defname": "ARR_LightningGenerator"
+	},
+	{
+		"abr": "marauder'saxe",
+		"price": 392,
+		"category": "Disciple of war",
+		"defname": "ARR_Weapon_Marauder_Basic"
+	},
+	{
+		"abr": "matron'smistletoe",
+		"price": 3,
+		"category": "Alchemical herbs",
+		"defname": "ARR_Mistletoe"
+	},
+	{
+		"abr": "miqo'te",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "ARR_MiqoteSeeker"
+	},
+	{
+		"abr": "miqo'te",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "ARR_MiqoteKeeper"
+	},
+	{
+		"abr": "miqo'teloincloth",
+		"price": 141,
+		"category": "A Rim Reborn",
+		"defname": "ARR_ApparelMiqoteBottomFemale"
+	},
+	{
+		"abr": "miqo'teseparates",
+		"price": 157,
+		"category": "A Rim Reborn",
+		"defname": "ARR_ApparelMiqoteTopFemale"
+	},
+	{
+		"abr": "miqo'tevest",
+		"price": 157,
+		"category": "A Rim Reborn",
+		"defname": "ARR_ApparelMiqoteTopMale"
+	},
+	{
+		"abr": "miqo'tezouaves",
+		"price": 141,
+		"category": "A Rim Reborn",
+		"defname": "ARR_ApparelMiqoteBottomMale"
+	},
+	{
+		"abr": "pointedhat",
+		"price": 112,
+		"category": "Headwear",
+		"defname": "ARR_PointedHat"
+	},
+	{
+		"abr": "pothelm",
+		"price": 151,
+		"category": "Headwear",
+		"defname": "ARR_PotHelm"
+	},
+	{
+		"abr": "potion",
+		"price": 83,
+		"category": "Potions",
+		"defname": "ARR_Potion"
+	},
+	{
+		"abr": "potionbelt",
+		"price": 74,
+		"category": "Utility",
+		"defname": "ARR_PotionBelt"
+	},
+	{
+		"abr": "potionofdexterity",
+		"price": 133,
+		"category": "Potions",
+		"defname": "ARR_PotionDexterity"
+	},
+	{
+		"abr": "potionofstrength",
+		"price": 133,
+		"category": "Potions",
+		"defname": "ARR_PotionStrength"
+	},
+	{
+		"abr": "potionofvitality",
+		"price": 133,
+		"category": "Potions",
+		"defname": "ARR_PotionVitality"
+	},
+	{
+		"abr": "riverafloorlamp",
+		"price": 83,
+		"category": "A Rim Reborn",
+		"defname": "ARR_FloorLampRiviera"
+	},
+	{
+		"abr": "sallet",
+		"price": 169,
+		"category": "Headwear",
+		"defname": "ARR_Sallet"
+	},
+	{
+		"abr": "shroudlavender",
+		"price": 2,
+		"category": "Alchemical herbs",
+		"defname": "ARR_Lavender"
+	},
+	{
+		"abr": "soulofthebard",
+		"price": 3333,
+		"category": "Soul crystals",
+		"defname": "ARR_SoulCrystal_Bard"
+	},
+	{
+		"abr": "souloftheblackmage",
+		"price": 3333,
+		"category": "Soul crystals",
+		"defname": "ARR_SoulCrystal_BlackMage"
+	},
+	{
+		"abr": "soulofthedragoon",
+		"price": 3333,
+		"category": "Soul crystals",
+		"defname": "ARR_SoulCrystal_Dragoon"
+	},
+	{
+		"abr": "soulofthewarrior",
+		"price": 3333,
+		"category": "Soul crystals",
+		"defname": "ARR_SoulCrystal_Warrior"
+	},
+	{
+		"abr": "soulofthewhitemage",
+		"price": 3333,
+		"category": "Soul crystals",
+		"defname": "ARR_SoulCrystal_WhiteMage"
+	},
+	{
+		"abr": "stardustrod",
+		"price": 5000,
+		"category": "Disciple of magic",
+		"defname": "ARR_RelicWeapon_StardustRod"
+	},
+	{
+		"abr": "thaumaturge'sstaff",
+		"price": 315,
+		"category": "Disciple of magic",
+		"defname": "ARR_Weapon_Thaumaturge_Basic"
+	},
+	{
+		"abr": "thyrus",
+		"price": 5000,
+		"category": "Disciple of magic",
+		"defname": "ARR_RelicWeapon_Thyrus"
+	},
+	{
+		"abr": "travelrations",
+		"price": 30,
+		"category": "Блюда",
+		"defname": "ARR_MealTravel"
+	},
+	{
+		"abr": "viera",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "ARR_VieraRava"
+	},
+	{
+		"abr": "viera",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "ARR_VieraVeena"
+	},
+	{
+		"abr": "vierachestwrap",
+		"price": 157,
+		"category": "A Rim Reborn",
+		"defname": "ARR_ApparelVieraTopFemale"
+	},
+	{
+		"abr": "vieragaskins",
+		"price": 141,
+		"category": "A Rim Reborn",
+		"defname": "ARR_ApparelVieraBottomMale"
+	},
+	{
+		"abr": "vieraharness",
+		"price": 157,
+		"category": "A Rim Reborn",
+		"defname": "ARR_ApparelVieraTopMale"
+	},
+	{
+		"abr": "vierapantalettes",
+		"price": 141,
+		"category": "A Rim Reborn",
+		"defname": "ARR_ApparelVieraBottomFemale"
+	},
+	{
+		"abr": "watercrystal",
+		"price": 0,
+		"category": "Crystals",
+		"defname": "ARR_WaterCrystal"
+	},
+	{
+		"abr": "windcrystal",
+		"price": 0,
+		"category": "Crystals",
+		"defname": "ARR_WindCrystal"
+	},
+	{
+		"abr": "мясоaura",
+		"price": 1,
+		"category": "Мясо",
+		"defname": "Meat_ARR_AuRaRaen"
+	},
+	{
+		"abr": "мясоhyur",
+		"price": 1,
+		"category": "Мясо",
+		"defname": "Meat_ARR_HyurMidlander"
+	},
+	{
+		"abr": "мясоlalafell",
+		"price": 1,
+		"category": "Мясо",
+		"defname": "Meat_ARR_LalafellPlainsfolk"
+	},
+	{
+		"abr": "мясоlalafell",
+		"price": 1,
+		"category": "Мясо",
+		"defname": "Meat_ARR_LalafellDunesfolk"
+	},
+	{
+		"abr": "мясоmiqo'te",
+		"price": 1,
+		"category": "Мясо",
+		"defname": "Meat_ARR_MiqoteSeeker"
+	},
+	{
+		"abr": "мясоviera",
+		"price": 1,
+		"category": "Мясо",
+		"defname": "Meat_ARR_VieraRava"
 	}
 	],
-	"total": 1765
+	"total": 1877
 }
