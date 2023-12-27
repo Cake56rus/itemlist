@@ -2325,6 +2325,139 @@
       "enabled": true,
       "name": "au ra",
       "price": 2917
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+120.00 Масса",
+          "+0% Воспламеняемость",
+          "+105% Психочувствительность",
+          "-10.0C Мин. комфортная температура",
+          "+9999.0C Макс. комфортная температура",
+          "+2000₡ Рыночная стоимость",
+          "+3.92 Скорость передвижения",
+          "+50 Количество мяса",
+          "+8 Количество кожи",
+          "+100 Грузоподъёмность",
+          "+110% Скорость горных работ",
+          "+30.0% Броня: Удар",
+          "+55.0% Броня: Проникновение",
+          "+3 Милость короны"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "The Rockmen, as they have been nicknamed by humans, are called so because of their unique skin which according to scientific experiments can be nearly as hard and rugged as solid rock. Additionally, the Rockmen are extremely well conditioned and physically strong to compensate for their thick rock-like skin, giving them an astounding resilience. As a result of their physical attributes, the Rockmen have evolved throughout their race's existence into a warrior race which values personal strength and martial prowess over nearly everything else.\nWhile the Rockmen are generally not an adventurous race, and can only be consistently located within their own territories' borders, the Rockmen are liable to open fire on any ship they encounter that they aren't familiar with. Still, there are always exceptions to the rule, and having Rockmen crew can be very beneficial. Also, from random occurrences, some Rockmen seem to be quite religious.\n\n+ 150% Health scale\n+ 110% mining speed\n+ Fireproof, comfy temp over 9000 (frost may bite though)\n+ Natural armor\n- 85% speed\n- 150% Hunger rate\n- 105% psychic sensitivity to depict religious inclination",
+      "defName": "Alien_Rockman",
+      "enabled": true,
+      "name": "Rockman",
+      "price": 3333
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+60.00 Масса",
+          "+70% Воспламеняемость",
+          "+1750₡ Рыночная стоимость",
+          "+5.00 Скорость передвижения",
+          "+16.0C Мин. комфортная температура",
+          "+26.0C Макс. комфортная температура",
+          "+50 Количество кожи"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "Fell Fox",
+      "defName": "Alien_Fox",
+      "enabled": true,
+      "name": "Fell Fox",
+      "price": 2917
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+60.00 Масса",
+          "+70% Воспламеняемость",
+          "+1750₡ Рыночная стоимость",
+          "+5.00 Скорость передвижения",
+          "+16.0C Мин. комфортная температура",
+          "+26.0C Макс. комфортная температура",
+          "+50 Количество кожи"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "Fell Wolf",
+      "defName": "Alien_Wolf",
+      "enabled": true,
+      "name": "Fell Wolf",
+      "price": 2917
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+60.00 Масса",
+          "+70% Воспламеняемость",
+          "+1750₡ Рыночная стоимость",
+          "+5.00 Скорость передвижения",
+          "+16.0C Мин. комфортная температура",
+          "+26.0C Макс. комфортная температура",
+          "+50 Количество кожи"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "Fell Lynx",
+      "defName": "Alien_Lynx",
+      "enabled": true,
+      "name": "Fell Lynx",
+      "price": 2917
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+60.00 Масса",
+          "+70% Воспламеняемость",
+          "+1750₡ Рыночная стоимость",
+          "+5.00 Скорость передвижения",
+          "+16.0C Мин. комфортная температура",
+          "+26.0C Макс. комфортная температура",
+          "+50 Количество кожи"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "Fell Serval",
+      "defName": "Alien_Serval",
+      "enabled": true,
+      "name": "Fell Serval",
+      "price": 2917
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+60.00 Масса",
+          "+70% Воспламеняемость",
+          "+1750₡ Рыночная стоимость",
+          "+5.00 Скорость передвижения",
+          "+16.0C Мин. комфортная температура",
+          "+26.0C Макс. комфортная температура",
+          "+50 Количество кожи"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "Fell Bear",
+      "defName": "Alien_Bear",
+      "enabled": true,
+      "name": "Fell Bear",
+      "price": 2917
     }
   ]
 }
